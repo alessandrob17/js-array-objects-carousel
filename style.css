@@ -1,0 +1,27 @@
+.slide-active{
+    display: block;
+}
+
+.slide{
+    display: none;
+}
+
+.container{
+    position: relative;
+}
+
+.arrow-left{
+    position: absolute;
+    right: 65%;
+    font-size: 35px;
+    color: white;
+    top: 45%;
+}
+
+.arrow-right{
+    position: absolute;
+    left:  65%;
+    font-size: 35px;
+    color: white;
+    top: 45%;
+}
